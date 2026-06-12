@@ -2,6 +2,8 @@
     "java.project.sourcePaths": [
         "file handling/programs",
         "intro",
-        "practice"
-    ]
+        "practice",
+        "Unit 2/Sample_Programs"
+    ],
+    "java.errors.packageDeclaration.severity": "ignore"
 }
